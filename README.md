@@ -2,7 +2,7 @@
 
 #### 🔭 I’m currently working on ...
 
-My name is Filipe Herculano Rocha and I'm a Software Engineer at @stone-payments. I'm currently working with Elixir/Erlang built projects.
+My name is Filipe Herculano Rocha and I'm a Software Engineer at [Stone Co.](https://www.stone.com.br/). I'm currently working with Elixir/Erlang built projects.
 
 I'm Also:
 - Former competitive programmer (ICPC, Google Code Jam, Facebook HackerCup, Codeforces, you name it ...)
