@@ -5,7 +5,7 @@
 My name is Filipe Herculano Rocha and I'm a Software Engineer at [Stone Co.](https://www.stone.com.br/). I'm currently working with Elixir/Erlang built projects.
 
 I'm Also:
-- Former competitive programmer (ICPC, Google Code Jam, Facebook HackerCup, Codeforces, you name it ...)
+- Former competitive programmer ([ICPC](https://icpc.global/ICPCID/YNDRLPYLCZ3P), Google Code Jam, Facebook HackerCup, [Codeforces](https://codeforces.com/profile/Sazzon), you name it ...)
 - Blockchain Enthusiast
 - Functional programming lover
 - Vim user (not evangelist)
@@ -22,7 +22,7 @@ I'm Also:
 
 #### 📫 How to reach me
 
-You can send me an [email](filipeherculanorocha@gmail.com), but I won't guarantee any replies. It's safer to send me a message on [linkedin](https://www.linkedin.com/in/filipe-herculano/). 
+You can send me an email (filipeherculanorocha@gmail.com), but I won't guarantee any replies. It's safer to send me a message on [Linkedin](https://www.linkedin.com/in/filipe-herculano/). 
 
 
 <!--
