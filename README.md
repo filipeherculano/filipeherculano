@@ -24,6 +24,9 @@ I'm Also:
 
 You can send me an email (filipeherculanorocha@gmail.com), but I won't guarantee any replies. It's safer to send me a message on [Linkedin](https://www.linkedin.com/in/filipe-herculano/). 
 
+### GitLab contributions
+
+![alt text][https://drive.google.com/file/d/1Z4gknmUZ21MEFaDHhOMdKNlFZ8Il2wqP/view]
 
 <!--
 **filipeherculano/filipeherculano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
