@@ -2,7 +2,7 @@
 
 #### 🔭 I’m currently working on ...
 
-My name is Filipe Herculano Rocha and I'm a Software Engineer at [Nash](https://nash.io/). I'm currently working with Elixir/Erlang built projects.
+My name is Filipe Herculano Rocha and I'm a Software Engineer at [VHS](https://www.vhslab.com/). I'm currently working with Elixir/Erlang built projects.
 
 I'm Also:
 - Former competitive programmer ([ICPC](https://icpc.global/ICPCID/YNDRLPYLCZ3P), Google Code Jam, Facebook HackerCup, [Codeforces](https://codeforces.com/profile/Sazzon), you name it ...)
